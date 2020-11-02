@@ -91,25 +91,9 @@ h2 {
 }
 
 .project {
-  /* border-top: 10px solid red;
-  border-right: 10px solid green;
-  border-left: 10px solid orange;
-  border-bottom: 10px solid pink; */
-  /* color: blue; */
-  /* border-top-color: red;
-  border-top-width: 15px;
-  border-top-style: solid; */
   border: 1px solid gray;
   border-radius: 10px;
-  /* border-top-left-radius: 50px;
-  border-top-right-radius: 10px;
-  border-bottom-left-radius: 10px;
-  border-bottom-right-radius: 10px; */
-  /* margin: 10px; */
   margin-bottom: 15px;
-  /* margin-right
-  margin-left 
-  margin-top */
   padding: 20px;
   background: white;
   display: flex;
@@ -127,9 +111,6 @@ h2 {
 .project strong {
   font-family: 'Fjalla One', sans-serif;
 }
-/* .project-date {
-  margin: 10px 0;
-} */
 
 .project-title {
   font-size: 30px;
@@ -189,9 +170,7 @@ figure {
 
 .flexbox {
   display: flex;
-  /* flex-wrap: nowrap; */
   flex-wrap: wrap;
-  /* flex-direction: column; */
 }
 
 .box {
@@ -268,9 +247,6 @@ figure {
   justify-content: space-between;
 }
 
-.social {
-}
-
 .social-link {
   display: inline-block;
   width: 50px;
@@ -320,7 +296,6 @@ figure {
 }
 
 .container {
-  /* border: 1px solid red; */
   width: 1000px;
   margin: 0 auto;
   display: inherit;
